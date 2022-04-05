@@ -1,0 +1,8 @@
+{
+  "build": {
+    "env": {
+      "NEXT_PUBLIC_STRIPE_PUBLIC_KEY": "pk_live_UOHgPwctE9bCt6yQoiR77Iq2",
+      "NEXT_PUBLIC_GRAPHQL_API_ENDPOINT": "https://chendol-test-graphql.vercel.app/shop/graphql"
+    }
+  }
+}
